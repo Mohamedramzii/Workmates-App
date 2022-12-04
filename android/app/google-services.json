@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "198811571349",
+    "project_id": "social-work-app-b34dc",
+    "storage_bucket": "social-work-app-b34dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:198811571349:android:0761460bdde3737a5ff79c",
+        "android_client_info": {
+          "package_name": "com.example.work_os"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "198811571349-oe18be48httj4d51h4ua593caska9ita.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.work_os",
+            "certificate_hash": "7cdeff0ef57ac67465c8fafa472f00e3c96bf177"
+          }
+        },
+        {
+          "client_id": "198811571349-ck0c7r2c0lussr2latlil608445en4bb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCz3rSsWnV4BbBjf1LsJMGIZImJG6laeeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "198811571349-ck0c7r2c0lussr2latlil608445en4bb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
