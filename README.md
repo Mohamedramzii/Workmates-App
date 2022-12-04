@@ -1,16 +1,10 @@
-# work_os
+# Workmates App
+# An app for communication between workmates about their tasks.
+# In this app i used Getx state managment and Firebase services (Authentication, Firestore and FireStorage).
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+# Some Feature:
+- Every user can add a task and it will be uploaded for all.
+- Every user can write a comment and others will see it.
+- Only the task owner can delete and change task state from Active to Done.
+- Each task has a deadline.
+- Every user can change his information e.g: Full name and company position.
